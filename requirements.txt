@@ -1,0 +1,9 @@
+flask>=3.0.0
+transformers
+sentence-transformers
+faiss-cpu
+PyPDF2
+torch
+pandas
+numpy
+reportlab
